@@ -18,11 +18,11 @@ I'm currently focused on enhancing my skills in Angular.
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DmitriiMal&show_icons=true&theme=radical)
 
 <!-- ## 📊 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical) -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitriiMal&layout=compact&theme=radical) -->
 
 ## 📬 Contact Me
 
@@ -31,6 +31,6 @@ Feel free to connect with me on:
 - [LinkedIn](https://www.linkedin.com/in/dmitrii-malyshkin-441b2a276/)
 - [Portfolio Website](https://dmitrii.codefactory.wien/)
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=DmitriiMal.DmitriiMal)
 
 Let's collaborate and build amazing things together! 😄
