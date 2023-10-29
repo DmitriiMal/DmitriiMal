@@ -2,15 +2,31 @@
 
 Hello! I'm Dmitrii, a web developer currently learning at CodeFactory Vienna. I love building responsive and interactive web applications. Here's a little bit about my tech stack and skills:
 
-- **Frontend:** HTML5, CSS3, SASS, Bootstrap, JavaScript, TypeScript, Angular
-- **Backend:** MySQL, PHP, Symfony
-- **Tools:** Git, Adobe Photoshop, Adobe Illustrator
 
-## 🚀 My Projects
 
-- [Project 1](link/to/project1): Description of Project 1.
-- [Project 2](link/to/project2): Description of Project 2.
-- ...
+  ![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
+  ![CSS3](https://img.icons8.com/color/48/000000/css3.png)
+  ![SASS](https://img.icons8.com/color/48/000000/sass.png)
+  ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
+  ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+  ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)
+  ![Angular](https://img.icons8.com/color/48/000000/angularjs.png)
+
+<!--
+  ![MySQL](https://img.icons8.com/color/48/000000/mysql.png)
+  ![PHP](https://img.icons8.com/officel/48/000000/php-logo.png)
+  ![Symfony](https://img.icons8.com/color/48/000000/symfony.png)
+-->
+
+  ![Git](https://img.icons8.com/color/48/000000/git.png)
+  ![Adobe Photoshop](https://img.icons8.com/color/48/000000/adobe-photoshop.png)
+  ![Adobe Illustrator](https://img.icons8.com/color/48/000000/adobe-illustrator.png)
+
+
+## 🚀 My Latest Projects
+
+- [Il Gambero Rosso](https://github.com/DmitriiMal/angular-sunday): It's a Delivery page for a Restaurant, built with Angular and Bootstrap.
+- [My portfolio website](https://github.com/DmitriiMal/Portfolio_project): Here I tried my best in Sass and also added a little bit JavaScript.
 
 ## 🌱 Currently Learning
 
@@ -33,4 +49,4 @@ Feel free to connect with me on:
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=DmitriiMal.DmitriiMal)
 
-Let's collaborate and build amazing things together! 😄
+Let's collaborate and build something together! 😄
