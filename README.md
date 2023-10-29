@@ -48,6 +48,7 @@ Feel free to connect with me on:
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/dmitrii-malyshkin-441b2a276/)
 [![Instagram](https://img.icons8.com/color/48/000000/instagram-new.png)](https://www.instagram.com/d.w.mal/)
 [![Portfolio Website](https://img.icons8.com/color/48/000000/web.png)](https://dmitrii.codefactory.wien/)
+[![Email](https://img.icons8.com/color/48/000000/message-squared.png)](d.w.malyschkin@gmail.com)
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=DmitriiMal.DmitriiMal)
 
