@@ -1,5 +1,6 @@
 # Welcome to my GitHub Profile! 👋
 
+
 Hello! I'm Dmitrii, a web developer currently learning at CodeFactory Vienna. I love building responsive and interactive web applications. Here's a little bit about my tech stack and skills:
 
 
@@ -26,7 +27,7 @@ Hello! I'm Dmitrii, a web developer currently learning at CodeFactory Vienna. I 
 ## 🚀 My Latest Projects
 
 - [Il Gambero Rosso](https://github.com/DmitriiMal/angular-sunday): It's a Delivery page for a Restaurant, built with Angular and Bootstrap.
-- [My portfolio website](https://github.com/DmitriiMal/Portfolio_project): Here I tried my best in Sass and also added a little bit JavaScript.
+- [My portfolio website](https://github.com/DmitriiMal/Portfolio_project): Here I tried my best in Sass and also added a little bit of JavaScript.
 
 ## 🌱 Currently Learning
 
@@ -44,9 +45,10 @@ I'm currently focused on enhancing my skills in Angular.
 
 Feel free to connect with me on:
 
-- [LinkedIn](https://www.linkedin.com/in/dmitrii-malyshkin-441b2a276/)
-- [Portfolio Website](https://dmitrii.codefactory.wien/)
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/dmitrii-malyshkin-441b2a276/)
+[![Instagram](https://img.icons8.com/color/48/000000/instagram-new.png)](https://www.instagram.com/d.w.mal/)
+[![Portfolio Website](https://img.icons8.com/color/48/000000/web.png)](https://dmitrii.codefactory.wien/)
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=DmitriiMal.DmitriiMal)
 
-Let's collaborate and build something together! 😄
+Let's collaborate and build something together! 🤩
