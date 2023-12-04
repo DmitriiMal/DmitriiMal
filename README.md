@@ -38,9 +38,9 @@ I'm currently focused on enhancing my skills in Angular.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DmitriiMal&show_icons=true&theme=radical)
 
-<!-- ## 📊 Top Languages
+## 📊 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitriiMal&layout=compact&theme=radical) -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitriiMal&layout=compact&theme=radical) 
 
 ## 📬 Contact Me
 
