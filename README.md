@@ -46,10 +46,10 @@ Hello! I'm Dmitrii, a web developer currently learning at CodeFactory Vienna. I 
 
 ## 🚀 My Latest Projects
 
-- [E-commerce](https://github.com/DmitriiMal/web-shop-project): Built with Simfony, MySQL, Sass, AJAX and Bootstrap.
+- [E-commerce](https://github.com/DmitriiMal/web-shop-project): A webshop with login/registration, products, categories, mailer, Google maps Api, search, reviews and so on. Built with Simfony, MySQL, Sass, AJAX and Bootstrap.
 - [Photographer's Portfolio Website](https://github.com/DmitriiMal/Photographers-Page-master): Website for a Photographer created using Angular Sass and Bootstrap. A small project in which I had experience of teamwork.
 - [Il Gambero Rosso](https://github.com/DmitriiMal/angular-sunday): It's a Delivery page for a Restaurant, built with Angular and Bootstrap.
-- [My portfolio website](https://github.com/DmitriiMal/Portfolio_project): Here I tried my best in Sass and also added a little bit of JavaScript.
+- [My portfolio website](https://github.com/DmitriiMal/Portfolio_project): Here I tried my best in Sass and also added a little bit of JavaScript and PHP.
 
 ## 🌱 Currently Learning
 
