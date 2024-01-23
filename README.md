@@ -7,7 +7,6 @@ Hello! I'm Dmitrii, a web developer currently learning at CodeFactory Vienna. I 
 ##
 
  <div align="left">
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -36,6 +35,8 @@ Hello! I'm Dmitrii, a web developer currently learning at CodeFactory Vienna. I 
   ##
 
  <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
@@ -43,6 +44,9 @@ Hello! I'm Dmitrii, a web developer currently learning at CodeFactory Vienna. I 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
 </div>
 
+
+
+##
 
 ## 🚀 My Latest Projects
 
@@ -67,11 +71,12 @@ I'm currently focused on enhancing my skills in Angular and Symfony.
 
 Feel free to connect with me on:
 
-[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/dmitrii-malyshkin-441b2a276/)
+<!--[![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/dmitrii-malyshkin-441b2a276/)-->
+<!--[![Instagram](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg)](https://www.instagram.com/d.w.mal/)-->
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/dmitrii-malyshkin/)
 [![Instagram](https://img.icons8.com/color/48/000000/instagram-new.png)](https://www.instagram.com/d.w.mal/)
 [![Portfolio Website](https://img.icons8.com/color/48/000000/web.png)](https://malyshkin.net/)
 <!-- [![Email](https://img.icons8.com/color/48/000000/message-squared.png)](d.w.malyschkin@gmail.com) -->
-
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=DmitriiMal.DmitriiMal)
 
 Let's collaborate and build something together! 🤩
