@@ -45,7 +45,7 @@ Hello! I'm Dmitrii, a web developer currently learning at CodeFactory Vienna. I 
 </div>
 
 
-
+<!--
 ##
 
 ## 🚀 My Latest Projects
@@ -58,7 +58,7 @@ Hello! I'm Dmitrii, a web developer currently learning at CodeFactory Vienna. I 
 ## 🌱 Currently Learning
 
 I'm currently focused on enhancing my skills in Angular and Symfony.
-
+-->
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DmitriiMal&show_icons=true&theme=radical)
