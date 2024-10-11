@@ -1,5 +1,5 @@
 
-# Welcome to my GitHub Profile! 👋
+# Hey there! 👋
 
 
 Hello! I'm Dmitrii, I love building responsive and interactive web applications. Here's a little bit about my tech stack and skills:
