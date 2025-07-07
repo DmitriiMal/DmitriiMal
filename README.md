@@ -5,7 +5,7 @@
 Hello! I'm Dmitrii, I love building responsive and interactive web applications. Here's a little bit about my tech stack and skills:
 
 ##
-
+<!--
  <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -29,7 +29,7 @@ Hello! I'm Dmitrii, I love building responsive and interactive web applications.
 </div>
 
 ##
-
+ 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
@@ -54,7 +54,7 @@ Hello! I'm Dmitrii, I love building responsive and interactive web applications.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-plain.svg" height="40" alt="figma logo"  />
 </div>
 
-
+-->
 <!--
 ##
 
@@ -69,9 +69,11 @@ Hello! I'm Dmitrii, I love building responsive and interactive web applications.
 
 I'm currently focused on enhancing my skills in Angular and Symfony.
 -->
+<!--
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DmitriiMal&show_icons=true&theme=radical)
+-->
 
 ## 📊 Top Languages
 
@@ -84,9 +86,9 @@ Feel free to connect with me on:
 <!--[![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/dmitrii-malyshkin-441b2a276/)-->
 <!--[![Instagram](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg)](https://www.instagram.com/d.w.mal/)-->
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/dmitrii-malyshkin/)
-[![Instagram](https://img.icons8.com/color/48/000000/instagram-new.png)](https://www.instagram.com/d.w.mal/)
-[![Portfolio Website](https://img.icons8.com/color/48/000000/web.png)](https://malyshkin.net/)
-<!-- [![Email](https://img.icons8.com/color/48/000000/message-squared.png)](d.w.malyschkin@gmail.com) -->
+<!-- [![Instagram](https://img.icons8.com/color/48/000000/instagram-new.png)](https://www.instagram.com/d.w.mal/) -->
+<!-- [![Portfolio Website](https://img.icons8.com/color/48/000000/web.png)](https://malyshkin.net/) -->
+<!-- [![Email](https://img.icons8.com/color/48/000000/message-squared.png)](d.w.malyshkin@gmail.com) -->
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=DmitriiMal.DmitriiMal)
 
 Let's collaborate and build something together! 🤩
